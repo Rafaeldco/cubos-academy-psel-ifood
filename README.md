@@ -1,2 +1,3 @@
 # cubos-academy-psel-ifood
-Desafio prático do processo seletivo para a bolsa de estudos da Cubos Academy + iFood
+Nesse repositório se encontra a resolução dos exercícios do desafio prático do processo seletivo para a bolsa de estudos da Cubos Academy + iFood.
+
